@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae1d621b-0865-4404-9ec8-eff33b2d8e4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../12/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/.idea/dictionaries/San.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/Kfile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/src/com/san/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/src/com/san/Kfilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/src/com/san/SaxThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kfile/src/com/san/Xml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_08_client/src/san/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_08_client/src/san/MainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_03/less_2_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_03/src/com/san/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_04/src/com/san/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_05/less_2_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_05/src/com/san/MeasurementThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_06/src/com/san/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_06/src/com/san/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_06_kl/less_2_06_kl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_06_kl/src/com/san/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07/src/com/san/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07/src/com/san/BaseAuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07/src/com/san/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07/src/com/san/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07_kl/src/com/san/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../less_2_07_kl/src/com/san/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_01/src/com/san/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_01/src/com/san/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_01/src/com/san/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_01/src/com/san/Treadmill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_01/src/com/san/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lession_2_02/lession_2_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lession_3_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lession_3_01/com/san/Box.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lession_3_01/com/san/Fruit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lession_3_01/com/san/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lession_3_01/com/san/Orange.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/san/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/san/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/san/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/san/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/san/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/java3" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jDqAJ2Fj1X5de0rmG7wyqblvSW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.san.Main" />
+      <module name="lession_3_01" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae1d621b-0865-4404-9ec8-eff33b2d8e4e" name="Default Changelist" comment="" />
+      <created>1603348864236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603348864236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1603352675389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603352675389" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1603349271681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603349271681" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1603349271681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603349271681" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1603349271681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603349271681" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1603349271681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603349271681" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603352532175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603352532175" />
+  </component>
+</project>

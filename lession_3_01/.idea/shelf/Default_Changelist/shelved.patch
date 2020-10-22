@@ -1,0 +1,11 @@
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/.gitignore	(date 1603348881013)
++++ .idea/.gitignore	(date 1603348881013)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
